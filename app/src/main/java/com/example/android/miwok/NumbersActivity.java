@@ -148,7 +148,6 @@ public class NumbersActivity extends AppCompatActivity {
     protected void onStop() {
         super.onStop();
         releaseMediaPlayer();
-
     }
 
     /**
